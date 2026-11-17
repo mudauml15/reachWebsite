@@ -1,12 +1,12 @@
 import { useCallback, useState } from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import StatsBar from "./components/StatsBar";
-import WhyReach from "./components/WhyReach";
-import Programme from "./components/Programme";
-import Impact from "./components/Impact";
-import CallToAction from "./components/CallToAction";
-import Footer from "./components/Footer";
+// import StatsBar from "./components/StatsBar";
+// import WhyReach from "./components/WhyReach";
+// import Programme from "./components/Programme";
+// import Impact from "./components/Impact";
+// import CallToAction from "./components/CallToAction";
+// import Footer from "./components/Footer";
 import ApplyModal from "./components/ApplyModal";
 
 export default function App() {

@@ -1,12 +1,12 @@
-import { Check, HeartHandshake, Play, Sparkles } from "lucide-react";
+import { Check, HeartHandshake, Play } from "lucide-react";
 import Button from "./Button";
 
-const avatars = [
-  { i: "NS", c: "bg-coral text-white" },
-  { i: "TM", c: "bg-gold text-ink" },
-  { i: "ZA", c: "bg-teal text-white" },
-  { i: "+", c: "bg-[#DCE6E1] text-slate-500" },
-];
+// const avatars = [
+//   { i: "NS", c: "bg-coral text-white" },
+//   { i: "TM", c: "bg-gold text-ink" },
+//   { i: "ZA", c: "bg-teal text-white" },
+//   { i: "+", c: "bg-[#DCE6E1] text-slate-500" },
+// ];
 
 interface HeroProps {
   onApply: () => void;
